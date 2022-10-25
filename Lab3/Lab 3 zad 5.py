@@ -1,0 +1,7 @@
+#Grupa laboratoryjna składa się z n studentów (wartość n podaje użytkownik). Wprowadzamy
+#liczbę punktów dla każdego studenta. Napisz program, który obliczy średnią liczbę punktów w grupie z
+#wykorzystaniem pętli while
+
+n = int(input("podaj liczbe studentow"))
+
+
