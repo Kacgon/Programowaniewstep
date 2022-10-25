@@ -18,4 +18,4 @@ elif x == 4:
 elif x == 5:
     print("twój wynik to", y**z )
 else:
-    print("zły wybór")
+    print("zły wybór1")
