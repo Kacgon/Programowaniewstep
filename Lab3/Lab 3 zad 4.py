@@ -1,4 +1,3 @@
-
 x = int(input('podaj 1'))
 z = int(input('podaj 2'))
 
